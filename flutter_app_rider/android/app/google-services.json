@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299634657812",
+    "firebase_url": "https://grider-19fbc.firebaseio.com",
+    "project_id": "grider-19fbc",
+    "storage_bucket": "grider-19fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299634657812:android:6c17bee215041018917501",
+        "android_client_info": {
+          "package_name": "com.sehgal.flutter_app_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299634657812-fe1vlgr6inredt70i5id69u166dth3lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJsZjEh-_Tj22gQ-bTkF0sgrZa3jwwhgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299634657812-fe1vlgr6inredt70i5id69u166dth3lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
